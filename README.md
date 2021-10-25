@@ -25,7 +25,6 @@ Los recursos a probar son:
 - Get de todos los ususarios
 - Filtrar por username
 - Filtrado incorrecto
--------------------------
 
 ----------------------------------------
 **VERSIÓN:** Java 1.8.0_302
