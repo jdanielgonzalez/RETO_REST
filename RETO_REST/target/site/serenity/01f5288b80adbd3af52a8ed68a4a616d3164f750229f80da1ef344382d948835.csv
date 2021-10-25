@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Users","get users completed","SUCCESS","2021-10-24T22:02:55.516-05:00[America/Bogota]","0.0","8.07"
+"Users","filter user by username","SUCCESS","2021-10-24T22:03:03.611-05:00[America/Bogota]","0.0","0.91"
+"Users","filter user wrongly","SUCCESS","2021-10-24T22:03:04.536-05:00[America/Bogota]","0.0","0.42"

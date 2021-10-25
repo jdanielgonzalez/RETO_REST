@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Users" skipped="0" tests="3" time="20.05" timestamp="2021-10-24 10:22:18"><testcase name="get users completed"/><testcase name="filter user by username"/><testcase name="filter user wrongly"/></testsuite>
